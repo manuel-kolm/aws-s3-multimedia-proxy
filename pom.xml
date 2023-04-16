@@ -10,10 +10,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
-    <groupId>com.media</groupId>
-    <artifactId>content-manager</artifactId>
+    <groupId>com.multimedia.proxy</groupId>
+    <artifactId>aws-s3-multimedia-proxy</artifactId>
     <version>1.0.0-SNAPSHOT</version>
-    <name>content-manager</name>
 
     <properties>
         <java.version>17</java.version>

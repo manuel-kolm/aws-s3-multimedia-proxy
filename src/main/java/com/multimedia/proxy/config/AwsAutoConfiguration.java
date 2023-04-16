@@ -1,4 +1,4 @@
-package com.media.contentmanager.config;
+package com.multimedia.proxy.config;
 
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.context.annotation.Bean;

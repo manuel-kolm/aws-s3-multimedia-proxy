@@ -1,6 +1,6 @@
-package com.media.contentmanager.controller;
+package com.multimedia.proxy.controller;
 
-import com.media.contentmanager.logic.MediaService;
+import com.multimedia.proxy.logic.MediaService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

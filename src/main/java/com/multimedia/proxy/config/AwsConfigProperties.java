@@ -1,4 +1,4 @@
-package com.media.contentmanager.config;
+package com.multimedia.proxy.config;
 
 import lombok.Getter;
 import lombok.Setter;

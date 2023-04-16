@@ -1,4 +1,4 @@
-package com.media.contentmanager.logic;
+package com.multimedia.proxy.logic;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
